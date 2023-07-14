@@ -8,5 +8,5 @@ int main()
     float b;
     cout<<"The number is:"<<a;
     cout<<endl<<"The number is :"<<b;
-    return 0;2
+    return 0;
 }
