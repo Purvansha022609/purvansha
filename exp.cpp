@@ -8,3 +8,8 @@ int main()
     cout<<"My first program";
     return 0;
 } 
+/*
+OUTPUT
+HELLO WORLD
+My first program
+*/
