@@ -12,4 +12,9 @@ int main()
     cin>>b;
     sum = a+b;
     cout<<"the sum of two numbers is"<<sum;
-}
+} 
+/*OUTPUT
+enter first number5
+enter second number5
+the sum of two numbers is 10
+*/
