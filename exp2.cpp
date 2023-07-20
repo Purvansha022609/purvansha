@@ -39,13 +39,17 @@ The size of Bool var:1bytes
 The size of String var:24bytes
 The size of Char var:1bytes
 */
-
+    
+        Part B
     bool imageColor = true;
     if(imageColor)
     cout<<"Yes, The image is colorfull"<<endl;
     else
     cout<<"image is not colorfull"<<endl;
+    OUTPUT
+    Yes, The image is colorfull
     
+    Part C
     bool camparison;
     int num1 = 5,num2 = 3;
     camparison = num1>num2;
@@ -54,4 +58,7 @@ The size of Char var:1bytes
     else
     cout<<num1<<"is smaller than"<<num2<<endl;
     return 0;
+    
+          OUTPUT
+        5 is grater than3
 }
