@@ -1,5 +1,6 @@
 /*Name-Purvansha Gehlod
-PRN-22070123088*/
+PRN-22070123088
+Exp-2 = Part-A*/
 #include<iostream>
 using namespace std;
 int main()
@@ -40,16 +41,17 @@ The size of String var:24bytes
 The size of Char var:1bytes
 */
     
-        Part B
+        Exp-2 = Part B
     bool imageColor = true;
     if(imageColor)
     cout<<"Yes, The image is colorfull"<<endl;
     else
     cout<<"image is not colorfull"<<endl;
+    
     OUTPUT
     Yes, The image is colorfull
     
-    Part C
+    Exp-2 = Part C
     bool camparison;
     int num1 = 5,num2 = 3;
     camparison = num1>num2;
