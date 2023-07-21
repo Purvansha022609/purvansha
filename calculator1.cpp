@@ -1,5 +1,6 @@
 /* Name-Purvansha Gehlod
 PRN-22070123088
+EXP-1
 */
 #include<iostream>
 using namespace std; 
@@ -36,13 +37,13 @@ int main()
     
 }
 /*OUTPUT
-enter first number5
-enter second number5
+enter first number 5
+enter second number 5
 the sum of two numbers is 10
-enter first number5
-enter the second number5
+enter first number 5
+enter the second number 5
 the subtration of two number is 0
-enter the first number2
-enter the second number2
+enter the first number 2
+enter the second number 2
 the multiplication of two number is 4
 */
